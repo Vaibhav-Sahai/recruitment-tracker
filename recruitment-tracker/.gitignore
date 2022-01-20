@@ -1,0 +1,6 @@
+output.txt
+__pycache__
+tracker-env
+.DS_Store
+example_assignment
+example_submission
